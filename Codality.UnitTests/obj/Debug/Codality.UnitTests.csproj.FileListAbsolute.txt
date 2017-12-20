@@ -1,0 +1,9 @@
+c:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\obj\Debug\Codality.UnitTests.csprojResolveAssemblyReference.cache
+c:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\bin\Debug\Codality.UnitTests.dll
+c:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\bin\Debug\Codality.UnitTests.pdb
+c:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\bin\Debug\nunit.framework.dll
+c:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\bin\Debug\nunit.framework.xml
+c:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\obj\Debug\Codality.UnitTests.dll
+c:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\obj\Debug\Codality.UnitTests.pdb
+C:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\bin\Debug\Codility.exe
+C:\Users\naadi\Documents\Visual Studio 2015\Projects\Codility\Codality.UnitTests\bin\Debug\Codility.pdb
